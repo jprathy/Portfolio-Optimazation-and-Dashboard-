@@ -35,3 +35,5 @@ It shows that the equal-weight portfolio is performing well overall, generating 
 
 
 
+
+
