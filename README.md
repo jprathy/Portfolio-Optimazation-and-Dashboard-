@@ -77,7 +77,7 @@ CVaR (95%) = -2.71%
 
 
 ## Markotwiz Method
-## Min Variance ##
+### Min Variance ###
 
 ### Overall Analysis ###
 <img width="1291" height="582" alt="image" src="https://github.com/user-attachments/assets/3c9f8bb2-ce74-4fb0-b3ca-afb395a64459" />
@@ -109,33 +109,26 @@ C.Temporary drops below 0 reflect short phases where risk outweighed returns.
 D.The repeated recovery to positive levels suggests consistent long-term stability.
 👉 Insight: Despite market fluctuations, the portfolio frequently achieves strong risk-adjusted returns, demonstrating effective portfolio management and resilience.
 
-### 
+### Risk Contribution ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/74ce86f1-c5d9-4e94-bb1d-d21194e90167" />
+This chart shows the Risk Contribution of each asset in the Minimum Variance portfolio, explaining which stocks are driving overall portfolio risk.
+🔹 What It Tells
+A.Each bar represents how much a stock contributes to total volatility.
+B.A few taller bars indicate that some assets contribute more risk than others.
+C.Most bars are relatively small, suggesting the portfolio is well-diversified.
+👉 Insight: The Minimum Variance strategy effectively spreads risk across assets, helping reduce the chance that one stock heavily impacts overall portfolio stability.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Tail Risk ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/b59af1c9-9009-4d22-b3d5-d05c6f4d8615" />
+This section presents the Tail Risk for the Minimum Variance portfolio, measuring potential losses during extreme market events.
+🔹 What It Tells
+A.VaR = -1.07% → With 95% confidence, the portfolio is unlikely to lose more than 1.07% in a typical adverse period.
+B.CVaR = -1.70% → If losses exceed VaR, the expected average loss is about 1.70%.
+👉 Insight: The Minimum Variance portfolio has very controlled downside risk, confirming its defensive nature and suitability for investors who prioritize capital protection over aggressive returns.
 
 
 ## Max Variance ##
+### Overall Performance ###
 <img width="1273" height="585" alt="image" src="https://github.com/user-attachments/assets/f92a2c75-a02e-418e-8864-3bc804320261" />
 This  shows the performance of the Max Sharpe portfolio, designed to maximize returns for each unit of risk.
 🔹 What It Tells
@@ -145,7 +138,7 @@ Sharpe Ratio: 1.88 → Excellent risk-adjusted performance, indicating efficient
 Max Drawdown: -25.00% → Moderate losses during downturns but manageable given the strong returns.
 👉 Insight: The Max Sharpe strategy delivers the best balance between risk and return, making it attractive for investors seeking aggressive growth with efficient risk management.
 
-## 
+### 
 
 
 
