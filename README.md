@@ -30,3 +30,5 @@ Streamlit
 
 ## Installation
 
+<-------My Complete Dashboard------>
+![Screenshot_6-2-2026_151214_localhost](https://github.com/user-attachments/assets/cbf99df0-a1ae-49d2-b4a0-2a07b8a97697)
