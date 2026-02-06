@@ -36,13 +36,14 @@ Streamlit
 It shows that the equal-weight portfolio is performing well overall, generating strong long-term returns (16.14%) with steady growth over time. However, the portfolio also carries moderate risk and large temporary losses (-38% drawdown), meaning investors must tolerate market fluctuations. The Sharpe ratio (0.89) suggests the returns are reasonably good for the level of risk taken.
 
 ### Performance Analysis ###
-<img width="1290" height="576" alt="image" src="https://github.com/user-attachments/assets/68600969-d53d-4835-84c4-a8e4f1ed8eed" />
-The ML Expected portfolio (red line) significantly outperforms all other strategies, indicating that machine learning–based return predictions can enhance portfolio growth.
-
-A.The Max Sharpe strategy shows strong and stable improvement, suggesting good risk-adjusted performance.
-B.Traditional approaches like Equal Weight and Min Variance grow more slowly, reflecting safer but lower-return strategies.
-C.The ML Dynamic portfolio demonstrates consistent progress, highlighting the benefit of adaptive allocation.
-D.The Market benchmark remains the lowest, meaning most optimized portfolios are beating the general market.
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/d194b9b8-9a8a-4f9a-bd0e-6064c7b6adee" />
+This chart compares the performance of multiple portfolio strategies against the market over time.
+🔹 What It Tells
+The Max Sharpe and ML Expected portfolios show the highest growth, indicating superior return potential.
+Minimum Variance and Equal Weight grow steadily with lower risk but more moderate returns.
+Advanced strategies like Black-Litterman and ML Dynamic outperform the general market benchmark.
+The market line remains the lowest, suggesting that optimized portfolios can deliver better long-term results.
+👉 Insight: Data-driven and optimized strategies significantly enhance portfolio performance, proving that intelligent allocation methods can outperform traditional investing approaches.
 
 ### Rolling Risk Continues reassessment ###
 <img width="1288" height="566" alt="image" src="https://github.com/user-attachments/assets/7d290b92-49ca-4700-a6fd-1b8065c0d868" />
@@ -98,7 +99,6 @@ B.Assets like VZ, JNJ, and CBOE have the largest allocations, meaning they play 
 The weights are relatively balanced, indicating strong diversification rather than heavy dependence on a single asset.
 👉 Insight: The portfolio prioritizes lower-risk, stable stocks to reduce overall volatility while maintaining consistent returns.
 
-### Performance Analysis ### 
 ### Rolling Risk Contniue Reassessment ###
 <img width="991" height="537" alt="image" src="https://github.com/user-attachments/assets/be3ed040-b343-4a80-8af9-3084b723a75f" />
 This chart shows the 6-month Rolling Sharpe Ratio of the portfolio, measuring how efficiently it generates returns relative to risk over time.
@@ -147,7 +147,6 @@ The portfolio is slightly more concentrated than a low-risk strategy, allowing f
 Smaller positions help maintain diversification while focusing on high-performing assets.
 👉 Insight: The Max Sharpe portfolio strategically allocates more weight to strong-performing stocks to maximize risk-adjusted returns, balancing growth with controlled diversification.
 
-### Performance Analysis ###
 ### Rolling Risk Continues Reassessment ###
 <img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/8f91c296-e646-418e-b331-7fc5a7268313" />
 This chart displays the 6-month Rolling Sharpe Ratio for the Max Sharpe portfolio, showing how efficiently the portfolio generates returns relative to risk over time.
@@ -175,6 +174,25 @@ CVaR = -2.59% → If losses exceed this level, the expected average loss is abou
 👉 Insight: Although the Max Sharpe strategy targets higher returns, its downside risk remains reasonably controlled, indicating a strong balance between aggressive growth and risk management.
 
 ## Machine Learning Expected Return ##
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/68fd8450-62c4-4b8d-8f62-3bacd5a9c300" />
+This shows the performance of the ML Expected portfolio, which uses machine learning to predict returns and optimize allocation.
+🔹 What It Tells
+Return: 37.42% → Extremely high growth potential.
+Volatility: 29.81% → Higher risk due to aggressive positioning.
+Sharpe Ratio: 1.26 → Strong risk-adjusted returns despite the volatility.
+Max Drawdown: -41.86% → Large temporary losses can occur during market stress.
+👉 Insight: The ML-driven strategy delivers superior returns but comes with higher fluctuations, making it ideal for investors willing to accept more risk for greater long-term rewards.
+
+### Portfolio Optimization ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/88ac1ac0-d6e7-457e-8429-1b0dd092b8d2" />
+This chart shows the Top Holdings of the ML Expected portfolio, highlighting where most of the investment is allocated.
+🔹 What It Tells
+A large portion of the portfolio is concentrated in a few assets like MSCI, MPWR, NVDA, and AZO.
+Higher weights indicate the machine learning model strongly expects these stocks to generate superior returns.
+The remaining assets have smaller allocations, providing some diversification.
+👉 Insight: The ML Expected strategy is more concentrated and aggressive, focusing capital on high-prediction stocks to maximize returns, but this can also increase overall portfolio risk.
+
+
 
 
 
