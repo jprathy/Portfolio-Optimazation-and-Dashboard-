@@ -138,7 +138,44 @@ Sharpe Ratio: 1.88 → Excellent risk-adjusted performance, indicating efficient
 Max Drawdown: -25.00% → Moderate losses during downturns but manageable given the strong returns.
 👉 Insight: The Max Sharpe strategy delivers the best balance between risk and return, making it attractive for investors seeking aggressive growth with efficient risk management.
 
-### 
+### Portfolio Construction ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/359fbe3b-ab85-4363-b5fb-302f32bb9682" />
+This chart shows the Top Holdings of the Max Sharpe portfolio, highlighting the assets with the largest weights.
+🔹 What It Tells
+Stocks like LLY, PGR, and NVDA have the highest allocations, meaning they are key drivers of portfolio returns.
+The portfolio is slightly more concentrated than a low-risk strategy, allowing for higher growth potential.
+Smaller positions help maintain diversification while focusing on high-performing assets.
+👉 Insight: The Max Sharpe portfolio strategically allocates more weight to strong-performing stocks to maximize risk-adjusted returns, balancing growth with controlled diversification.
+
+### Performance Analysis ###
+### Rolling Risk Continues Reassessment ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/8f91c296-e646-418e-b331-7fc5a7268313" />
+This chart displays the 6-month Rolling Sharpe Ratio for the Max Sharpe portfolio, showing how efficiently the portfolio generates returns relative to risk over time.
+🔹 What It Tells
+Frequent values above 2 indicate very strong risk-adjusted performance.
+Peaks near 5–6 highlight periods of exceptional efficiency.
+Short dips below 0 reflect temporary market stress, but quick recoveries show resilience.
+👉 Insight: The Max Sharpe portfolio consistently achieves high risk-adjusted returns, confirming it as a high-performing and efficiently optimized strategy despite periodic volatility.
+
+### Risk Contribution ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/f6340518-7428-471e-a227-c14a597290c6" />
+This chart shows the Risk Contribution of assets in the Max Sharpe portfolio, identifying which stocks contribute most to overall portfolio volatility.
+🔹 What It Tells
+A few tall bars indicate that some assets drive a larger portion of the risk, meaning the portfolio is slightly concentrated.
+Smaller bars show that many assets have limited impact on total volatility.
+This structure is typical for high-return strategies that accept moderate concentration to enhance performance.
+👉 Insight: The Max Sharpe portfolio takes calculated risk by allocating more weight to high-impact assets, helping maximize returns while still maintaining a level of diversification.
+
+### Tail Risk ###
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/8e8ea0e6-d2ca-4131-a7df-8b41fb28b7a7" />
+This section shows the Tail Risk of the Max Sharpe portfolio, measuring potential losses during extreme market movements.
+🔹 What It Tells
+VaR = -1.67% → With 95% confidence, the portfolio is unlikely to lose more than 1.67% in a typical adverse period.
+CVaR = -2.59% → If losses exceed this level, the expected average loss is about 2.59%.
+👉 Insight: Although the Max Sharpe strategy targets higher returns, its downside risk remains reasonably controlled, indicating a strong balance between aggressive growth and risk management.
+
+## Machine Learning Expected Return ##
+
 
 
 
