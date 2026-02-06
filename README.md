@@ -192,6 +192,26 @@ Higher weights indicate the machine learning model strongly expects these stocks
 The remaining assets have smaller allocations, providing some diversification.
 👉 Insight: The ML Expected strategy is more concentrated and aggressive, focusing capital on high-prediction stocks to maximize returns, but this can also increase overall portfolio risk.
 
+## CAPM Analysis 
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/cecdd431-ed7f-4b1c-8e54-8b4619b78d04" />
+This chart displays the Top Holdings of the CAPM portfolio, showing how investments are distributed based on the Capital Asset Pricing Model.
+🔹 What It Tells
+Stocks such as VZ, JNJ, and ED have the highest weights, meaning they are expected to provide stable returns relative to market risk.
+The weights are fairly similar across assets, indicating strong diversification.
+No single stock dominates the portfolio, helping reduce concentration risk.
+👉 Insight: The CAPM portfolio follows a balanced and theoretically grounded approach, aiming for steady returns while keeping risk well distributed across multiple assets.
+
+## Blacl_litter_Man
+<img width="1183" height="539" alt="image" src="https://github.com/user-attachments/assets/ba7aa131-3668-4257-93fc-d4480899e33a" />
+This chart shows the Top Holdings of the Black-Litterman portfolio, illustrating how capital is allocated using a model that combines market equilibrium with investor views.
+🔹 What It Tells
+A large portion is invested in MSCI and MPWR, indicating strong confidence in their expected performance.
+Stocks like AZO and NVDA also receive meaningful allocations, supporting growth potential.
+Smaller weights across other assets help maintain diversification.
+👉 Insight: The Black-Litterman strategy creates a smart balance between concentration and diversification, aiming to enhance returns while controlling risk through informed allocation.
+
+
+
 
 
 
