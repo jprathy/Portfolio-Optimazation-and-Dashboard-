@@ -28,7 +28,10 @@ SciPy
 Plotly  
 Streamlit  
 
-## Installation
-
-<-------My Complete Dashboard------>
+## My Complete Dashboard
+### Overall Navigator ###
 ![Screenshot_6-2-2026_151214_localhost](https://github.com/user-attachments/assets/cbf99df0-a1ae-49d2-b4a0-2a07b8a97697)
+It shows that the equal-weight portfolio is performing well overall, generating strong long-term returns (16.14%) with steady growth over time. However, the portfolio also carries moderate risk and large temporary losses (-38% drawdown), meaning investors must tolerate market fluctuations. The Sharpe ratio (0.89) suggests the returns are reasonably good for the level of risk taken.
+
+
+
