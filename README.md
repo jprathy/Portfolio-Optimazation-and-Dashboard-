@@ -1,32 +1,33 @@
-#  Portfolio Optimisation Dashboard
+## Portfolio Optimisation & Intelligent Allocation Framework
 
-An institutional-grade portfolio optimisation framework integrating machine learning, constrained optimisation, and dynamic asset allocation.
+An institutional-grade portfolio optimisation system integrating machine learning, quantitative finance models, and dynamic asset allocation to enhance risk-adjusted returns under changing market conditions.
 
 ## Key Features
 
-- Mean-Variance Optimisation (Minimum Variance & Maximum Sharpe)
-- Machine Learning Expected Returns (Ridge Regression)
-- Random Forest Market Regime Detection
-- Dynamic Portfolio Switching
-- Risk Decomposition
-- Tail Risk (VaR & CVaR)
-- Rolling Risk Metrics
-- Interactive Streamlit Dashboard
+Mean-Variance Optimisation (Minimum Variance & Maximum Sharpe)
+Machine Learning–Based Expected Return Forecasting
+Market Regime Detection using Random Forest
+Intelligent Dynamic Portfolio Switching
+Risk Contribution Analysis
+Tail Risk Measurement (VaR & CVaR)
+Rolling Sharpe Ratio for Time-Varying Risk Assessment
+Portfolio Construction & Top Holdings Visualisation
+Interactive Streamlit Dashboard for real-time analytics
+
 
 ## Methodological Contribution
 
-Unlike traditional static portfolio construction approaches, this project implements a continuous reassessment framework in which portfolio allocations adapt to evolving market conditions using predictive machine learning models.
-
-This mirrors real-world quantitative asset management practices.
+Unlike traditional static allocation methods, this framework applies a continuous reassessment approach, where portfolio weights are systematically updated using predictive machine learning models and advanced optimisation techniques. By combining data-driven forecasts with constrained optimisation, the system adapts to evolving market environments — closely reflecting modern institutional asset management practices.
 
 ## Tech Stack
 
-Python  
-Pandas  
-Scikit-Learn  
-SciPy  
-Plotly  
-Streamlit  
+Python
+Pandas
+NumPy
+Scikit-Learn
+SciPy (Optimization)
+Plotly
+Streamlit
 
 ## My Complete Dashboard
 ## Equal Weight
