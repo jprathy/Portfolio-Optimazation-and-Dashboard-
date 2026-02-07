@@ -1,7 +1,8 @@
 /// Click on the Raw ///
 
 Dataset and Data Collection
-https://finance.yahoo.com/quote/%5EGSPC/history/
+Data source: [Yahoo Finance – S&P 500 (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history/)
+
 
 This study utilises historical equity market data representing the S&P 500, a widely recognised benchmark index comprising approximately 500 large-capitalisation companies listed on U.S. stock exchanges. The S&P 500 provides broad coverage of the U.S. equity market across multiple sectors, including technology, healthcare, financials, consumer discretionary, industrials, and energy. Owing to its depth, liquidity, and long historical record, the index is frequently employed in academic research and industry practice as a reference universe for portfolio optimisation, risk analysis, and performance benchmarking.
 
